@@ -1,7 +1,7 @@
 
 # Meal app
 
-The meals app, where we can dive into meals and categories, mark them as Favorites, and then also see them here under this favorites tab.
+The meals app, where we can dive into meals, separeted by categories, mark them as Favorites, and then also see them here under this favorites tab.
 You can go to filters and set different filters, but which will affect what you see once we pick a category.  Ilearned a lot about navigation
 in the multi-screen. A use providers with riverpod, set up a global state management provider,
 which provides a dynamic value and may also provide methods
